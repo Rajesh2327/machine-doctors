@@ -1,0 +1,25 @@
+.contact-button {
+  margin-top: 10px;
+}
+.mail {
+  width: 10;
+  height: 10;
+}
+.contact-title {
+  color: #e74e84;
+  font-weight: bold;
+}
+.icons {
+  color: #e74e84;
+  font-size: 20px;
+  font-family: "Lato", sans-serif;
+}
+.contact-desc {
+  font-family: "Lato", sans-serif;
+  color: #1e1859;
+  font-size: 18px;
+}
+.form-label {
+  font-family: "Lato", sans-serif;
+  color: #1e1859;
+}

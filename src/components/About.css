@@ -1,0 +1,26 @@
+.header-image {
+  width: 100%;
+  margin-top: -2em;
+  margin-bottom: 2em;
+}
+
+.about-profile-pic {
+  float: left;
+  margin: 0 1em 1em 0;
+}
+.about-desc {
+  color: #1e1859;
+
+  font-family: "Lato", sans-serif;
+  font-size: 20px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.about-title {
+  color: #e74e84;
+  font-weight: bold;
+}
+.brand-name {
+  color: #e74e84;
+  font-weight: bold;
+}

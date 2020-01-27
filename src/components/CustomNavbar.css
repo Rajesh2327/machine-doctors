@@ -1,0 +1,53 @@
+nav.navbar,
+.navbar-default {
+  background-color: #2892d7 !important;
+  z-index: 900;
+}
+
+.navbar-default {
+  background-image: none;
+  border: none;
+  border-radius: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white;
+  font-family: "Lato", sans-serif;
+  font-size: 18px;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+  font-family: "Exo 2", sans-serif;
+  font-size: 25px;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: white;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white;
+}
+
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:hover {
+  background-color: transparent;
+}
+
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:hover {
+  color: white;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:hover {
+  color: white;
+  background-color: transparent;
+}
+.book-a-service {
+  margin: -5px;
+  font-weight: bold;
+  font-family: "Lato", sans-serif;
+}

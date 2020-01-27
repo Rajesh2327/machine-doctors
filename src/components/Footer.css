@@ -1,0 +1,10 @@
+.footer {
+  padding: 10px;
+  background-color: black;
+
+  text-align: center;
+}
+.copy {
+  color: #ffffff;
+  font-family: "Lato", sans-serif;
+}
