@@ -9,6 +9,7 @@ export default class Contact extends Component {
         <Image src="assets/contact.jpg" className="header-image" />
         <Grid>
           <Row>
+            {/* hlh */}
             <Col xs={12} sm={8} className="main-section">
               <form>
                 <center>
